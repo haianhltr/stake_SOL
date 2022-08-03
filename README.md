@@ -10,3 +10,5 @@ Please run `npm install` and run these options below:
 `node get_delegators_by_validator.js`
 
 `node deactivate_stake.js`
+
+`node withdraw_stake.js`
