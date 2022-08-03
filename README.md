@@ -1,5 +1,7 @@
 # stake_SOL
-run `node get_validators.js` to run the code
+Please run `npm install` and run these options below:
+
+ `node get_validators.js` 
 
 `node delegate_stake.js`
 
