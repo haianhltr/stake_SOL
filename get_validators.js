@@ -6,7 +6,7 @@ const main = async() => {
     const {current, delinquent} = await connection.getVoteAccounts();
     console.log('all validators:' + current.concat(delinquent).length);
     console.log('current validators: '+ current.length);
-
+    console.log(current[0]);
 
 }
 
